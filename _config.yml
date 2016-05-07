@@ -1,5 +1,7 @@
-favicon: null
-name: Bluegrassarcheryacademy
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.8019978879019618
 color:
   saturation: 0.7765958
   brandStrength: 0.9114607430528849
-  lightness: 0.3744681
+  rhythmicContrast: 0.4553191
   brandColors:
     - '#FFFFFF'
     - '#C02034'
     - '#202F66'
     - '#707070'
     - '#0E8AD0'
-  rhythmicContrast: 0.4553191
-typography_spectrum: 0.7596432389691472
-layout_spectrum: 0.8019978879019618
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.3744681
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: Bluegrassarcheryacademy
+typography_spectrum: 0.7596432389691472
