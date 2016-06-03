@@ -1,4 +1,8 @@
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Bluegrassarcheryacademy
 opengraph:
   image: null
   type: null
@@ -20,21 +24,17 @@ typography_spectrum: 0.7596432389691472
 color:
   saturation: 0.7765958
   brandStrength: 0.9114607430528849
-  lightness: 0.3744681
+  lightness: 0.5531915
   brandColors:
     - '#FFFFFF'
     - '#C02034'
     - '#202F66'
     - '#707070'
     - '#0E8AD0'
-  rhythmicContrast: 0.4553191
+  rhythmicContrast: 0.6723405
+layout_spectrum: 0.5085106
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.5085106
-name: Bluegrassarcheryacademy
+favicon: null
