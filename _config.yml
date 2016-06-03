@@ -1,4 +1,8 @@
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,14 +13,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
-typography_spectrum: 0.7596432389691472
 color:
   saturation: 0.4893617
   brandStrength: 1
@@ -28,11 +31,8 @@ color:
     - '#707070'
     - '#0E8AD0'
   rhythmicContrast: 0.9234043
+typography_spectrum: 0.7596432389691472
 layout_spectrum: 0.5085106
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
